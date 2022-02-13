@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-# Here are all my projects. You can go through its and ask me about it !
+# Here are all my projects. 
+## You can go through its and ask me about it !
 
 <!--
 **QuentinDesbrousses/quentinDesbrousses** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
