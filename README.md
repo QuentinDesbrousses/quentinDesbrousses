@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-# Here are some of my projects. 
+### Here are some of my projects. 
  You can go through its and ask me about it !
 
 ### I'm looking for a foreign internship as a web developper
