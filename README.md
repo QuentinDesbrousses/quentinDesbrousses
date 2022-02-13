@@ -1,7 +1,10 @@
 ### Hi there 👋
 
-# Here are all my projects. 
-## You can go through its and ask me about it !
+# Here are some of my projects. 
+ You can go through its and ask me about it !
+
+### I'm looking for a foreign internship as a web developper
+You can see my personal website at http://www.desbrousses.me 
 
 <!--
 **QuentinDesbrousses/quentinDesbrousses** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
