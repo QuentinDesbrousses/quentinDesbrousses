@@ -3,7 +3,7 @@
 ### Here are some of my projects. 
  You can go through its and ask me about it !
 
-### I'm looking for a foreign internship as a web developper from April to August.
+### I'm looking for a foreign internship as a web developper from May to August.
 If you are intrested, check my personal website at http://www.desbrousses.me and contact me.
 
 <!--
