@@ -4,7 +4,7 @@
  You can go through its and ask me about it !
 
 ### I'm looking for a foreign internship as a web developper from Mars to August.
-If you are intrested, check my personal website at https://desbrousses.me and contact me.
+If you are intrested, check my personal website at https://quentindesbrousses.github.io and contact me.
 
 <!--
 **QuentinDesbrousses/quentinDesbrousses** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
